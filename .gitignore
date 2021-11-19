@@ -1,0 +1,13 @@
+# Project exclude paths
+/target/
+*.iml
+*.project
+*.classpath
+/.settings/
+/catalina.home_IS_UNDEFINED/
+*/target/*
+*/.settings/*
+*/catalina.home_IS_UNDEFINED/*
+/.idea/
+*/.idea/*
+*.idea*
